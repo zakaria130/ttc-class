@@ -25,7 +25,7 @@ class _CalculatorState extends State<Calculator> {
             centerTitle: true,
             backgroundColor: Colors.purple,
             title: Text(
-              "Calculator",
+              "Calculato",
               style: GoogleFonts.libreBaskerville(
                   fontSize: 36, fontWeight: FontWeight.bold),
             ),
